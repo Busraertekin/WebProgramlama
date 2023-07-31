@@ -1,2 +1,2 @@
 # WebProgramlama
-Web Programlama Yaz Okulu Projesi
+Hayvan Barınağı projesi
