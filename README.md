@@ -1,2 +1,2 @@
 # WebProgramlama
-Hayvan Barınağı projesi
+Hayvan Barınağı Projesi
